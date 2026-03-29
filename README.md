@@ -10,6 +10,6 @@ I'm a fullstack developer.<br>My stack: golang, vue 3, html, css, scss, tailwind
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ketchunes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ketchunes&icon=0&color=0)](https://visitcount.itsvg.in)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketchunes&show_icons=true&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
